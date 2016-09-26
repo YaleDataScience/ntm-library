@@ -15,8 +15,9 @@ The goal of this project is to build NTM library in TensorFlow.
 ### Members
 | Name | How many hours you want to spend per week|
 |------|--------|
+|Whoever wants to lead this project?| (should be like 5 hours or more) |
 |Yutaro Yamada | 2 hours |
-|Anyone who wants to do this?| |
+
 
 ### List of Tasks
 | Task | Status | Deadline |
