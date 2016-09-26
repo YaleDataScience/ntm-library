@@ -5,6 +5,8 @@ not many built an actual library for NTM so that people can experiment with it.
 
 The goal of this project is to build NTM library in TensorFlow. 
 
+It will be something like importing [this Theano project](https://github.com/snipsco/ntm-lasagne) to TensorFlow.  
+
 **Note**: 
 - For those who are interested in contributing to this project, please read [List of Tasks](), pick one, implement it, and send us a pull request. 
 
