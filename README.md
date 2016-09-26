@@ -1,9 +1,9 @@
 # YDS Project : Building Neural Turing Machine 
 
-Although there are tons of Neural Turing Machine implementations on github already, 
-not many built an actual library for NTM so that people can experiment with it.
+Although there are tons of Neural Turing Machine implementations on github already,
+most of them hard-coded parameters / models of NTM, which makes them very hard to modfity their architecture.  
 
-The goal of this project is to build NTM library in TensorFlow. 
+The goal of this project is to build a flexible NTM library in TensorFlow so that anyone can build their own NTM model.
 
 It will be something like importing [this Theano project](https://github.com/snipsco/ntm-lasagne) to TensorFlow.  
 
